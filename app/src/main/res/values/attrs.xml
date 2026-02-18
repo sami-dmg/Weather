@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customCardBackground" format="color" />
+    <attr name="customCardStroke" format="color" />
+    <attr name="customTextColor" format="color" />
+    <attr name="customHintColor" format="color" />
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#2196F3</color>
+
+    <color name="bg_color_light">#FFFFFF</color>
+    <color name="text_color_light">#000000</color>
+    <color name="hint_text_color_light">#888888</color>
+    <color name="card_bg_light">#FFFFFF</color>
+    <color name="card_stroke_light">#CCCCCC</color>
+
+    <color name="bg_color">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="card_bg">#F0F0F0</color>
+</resources>
